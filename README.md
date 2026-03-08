@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ponkrit Sukprasert
 ===========================================================================================================================================
 
-* 🌍  I'm based in Thailand
+* 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [ponkrit.sukp@gmail.com](mailto:ponkrit.sukp@gmail.com)
 * 🧠  I'm currently learning Go
 

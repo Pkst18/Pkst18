@@ -12,6 +12,8 @@ Final-year CS student at KMUTT, Bangkok. I build LLM systems, mostly RAG, and I 
 |---|---|---|
 | [HiwRaew AI](https://github.com/Pkst18/restaurant-ai-server) · [client](https://github.com/Pkst18/restaurant-ai-client) | RAG over restaurant reviews, written by hand without LangChain | FastAPI, pgvector, OpenAI API |
 | [Acne Detection](https://github.com/Pkst18/acne-detection-server) · [app](https://github.com/Pkst18/acne-detection-client) | YOLOv11 trained on merged Roboflow datasets, served to a Flutter app | YOLOv11, FastAPI, Flutter |
+| [Spaceship Titanic](https://github.com/Pkst18/SpaceShip-Titanic) | Kaggle, team of 4: feature engineering + soft-voting ensemble, ROC-AUC 0.914 | LightGBM, XGBoost, CatBoost |
+| [House Price Estimation](https://github.com/Pkst18/houseprice-estimation) | Kaggle regression: stacked Ridge + XGBoost tuned with Optuna, CV RMSE 0.120 (log price) | scikit-learn, XGBoost, Optuna |
 | Quic *(private)* | Commission-free food delivery platform; I own the order state machine and wallet ledger | TypeScript, Go, Flutter, Supabase, Redis |
 
 ### Stack
